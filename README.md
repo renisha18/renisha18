@@ -48,9 +48,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=renisha18&color=C1440E&style=flat&label=Profile+Views" />
-</p>
-
-<p align="center"><i>Currently prepping for placements, building leetcode-buddy, and exploring what agentic AI can do 🚀</i></p>
